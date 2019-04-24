@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaiTang26/react_fund"
+  },
   "author": "Kai Tang",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
 }
