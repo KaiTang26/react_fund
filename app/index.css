@@ -29,3 +29,37 @@ li{
     cursor: pointer;
 }
 
+.popular-list{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.popular-item{
+    margin: 20px;
+    text-align: center;
+    
+}
+
+.space-list-items{
+    margin-bottom: 7px;
+
+}
+.avatar{
+    width: 150px;
+    border-radius: 50%;
+    
+
+}
+
+.nav{
+    display:flex;
+}
+.nav-item{
+    margin-right: 10px;
+}
+
+
+
+
+
